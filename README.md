@@ -18,7 +18,4 @@ This will run nodejsscan web user interface at `http://127.0.0.1:9090`
 
 
 
-# VulnScan
-# VulnScan
-# VulnScan ##v4.0
-# VulnScan
+
